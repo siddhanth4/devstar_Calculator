@@ -374,6 +374,60 @@ export let tools = {
         link: '/text-to-speech-&-speech-recognition',
         description: "When choosing an app to transcribe speech to text and text to speech, quality is important. Our application delivers accurate text to speech and speech to text transcriptions that support multiple languages. Our transcription technology can convert speech to text and vice versa with a strong accuracy level and instantaneous result. It can produce multiple voices in multiple languages and recognize speech in multiple languages."
     },
+
+    'currency-calculator':{
+        name: 'Currency Calculator',
+        icon: 'code',
+        link:'/currency-calculator',
+        description:'The Currency Calculator is a valuable tool that can help you to convert one currency to another using the latest exchange rates.'
+    },
+    'age-calculator':{
+        name: 'Age Calculator',
+        icon: 'code',
+        link:'/age-calculator',
+        description:'The Age Calculator can determine the age or interval between two dates. The calculated age will be displayed in years, months, weeks, days, hours, minutes, and seconds.'
+    },
+    'dice-roller':{
+        name: 'Dice Roller',
+        icon: 'code',
+        link:'/dice-roller',
+        description:' '
+    },
+    'tip-calculator':{
+        name: 'Tip Calculator',
+        icon: 'code',
+        link:'/tip-calculator',
+        description:'The Tip Calculator calculates tip amount for various percentages of the cost of the service, and also provides a total amount that includes the tip.'
+    },
+    'permutation-and-combination-calculator':{
+        name: 'Permutation and Combination Calculator',
+        icon: 'code',
+        link:'/permutation-and-combination-calculator',
+        description:'Permutations and combinations are part of a branch of mathematics called combinatorics, which involves studying finite, discrete structures. Permutations are specific selections of elements within a set where the order in which the elements are arranged is important, while combinations involve the selection of elements without regard for order'
+    },
+    'webspeedtest': {
+        name: 'WebPage SpeedTester',
+        icon: 'code',
+        link: '/webspeedtest',
+        description: "A web page speed test that's as swift as the Bard's quill, revealing your site's performance with poetic skill.<br> Elevate your web page's performance with our swift and accurate web page speed test. Discover your site's strengths and weaknesses, and make informed decisions to improve user experience and boost conversions. Very useful for all users."
+    },
+    'regex-tool': {
+        name: 'Regex Tool',
+        icon: 'code',
+        link: '/regex-tool',
+        description: "Regular expressions are the Swiss Army knife of text manipulation, a powerful tool for both the timid and the fearless."
+    },
+    'annuity-payout-calculator': {
+        name: 'Annuity Payout Calculator',
+        icon: 'code',
+        link: '/annuity-payout-calculator',
+        description: "This calculator can estimate the annuity payout amount for a fixed payout length or estimate the length that an annuity can last if supplied a fixed payout amount. Please use our Annuity Calculator to estimate the end balance of an annuity for the accumulation phase."
+    },
+    'compound': {
+        name: 'compound calculator',
+        icon: 'code',
+        link: '/compound',
+=======
     'amortiztion-calculator': {
         name: 'amortiztion-calculator',
         icon: 'spider-web',
@@ -480,6 +534,7 @@ export let tools = {
         name: 'Robots.txt Generator',
         icon: 'spider-web',
         link: '/robots-txt-generator',
+
         description: "The Robots.txt Generator is a must-have tool for developers to create the robots.txt file, which controls search engine crawlers' access to specific pages or directories on a website. This tool offers a user-friendly interface to define crawling rules, including allow and disallow directives, to ensure optimal search engine indexing and prevent unwanted content from being indexed. Create and customize your robots.txt file efficiently with this generator to enhance your website's search engine optimization (SEO) efforts."
     },
 
